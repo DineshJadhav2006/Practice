@@ -23,5 +23,5 @@
 🌟 _Let's build something amazing together!_
 =======
 # Portfolio
-- open website ["https://mishraji566.github.io/Portfolio/"] 
+- open website ["https://github.com/DineshJadhav2006/Practice"] 
 >>>>>>> 58162d2 (Create README.md)
